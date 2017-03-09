@@ -14,5 +14,6 @@
 @property (nonatomic, strong) NSString *sessionToken;
 @property (nonatomic, strong) NSString *appId;
 @property (nonatomic, strong) NSString *payeeName;
+@property (nonatomic, strong) NSString *env;
 
 @end

@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MVisa"
-  s.version      = "0.1.1"
+  s.version      = "0.1.2"
   s.summary      = "MVisa (codename: ghatak) aims to reduce friction in while making payments"
 
   # This description is used to generate tags and improve search results.
